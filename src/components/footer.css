@@ -18,6 +18,7 @@ footer p , footer a{
   text-decoration: none;
   color: white;
 }
-footer a {
+footer a:hover{
+  color: var(--secondary);
 border-bottom: 1px solid white; ;
 }
